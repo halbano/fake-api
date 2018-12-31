@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "name1",
+      "description": "desc1",
+      "preview": "url",
+      "phoneNumber": "1",
+      "longitude": 12.1354324,
+      "latitude": 14.123,
+      "visibility": false
+    },
+    {
+      "id": 2,
+      "name": "name2",
+      "description": "desc2",
+      "preview": "url2",
+      "phoneNumber": "12",
+      "longitude": 12.1214314134,
+      "latitude": 14.457,
+      "visibility": false
+    },
+    {
+      "id": 3,
+      "name": "name3",
+      "description": "desc3",
+      "preview": "url3",
+      "phoneNumber": "123",
+      "longitude": 12.1245154,
+      "latitude": 14.688,
+      "visibility": false
+    },
+    {
+      "id": 4,
+      "name": "name4",
+      "description": "desc4",
+      "preview": "url4",
+      "phoneNumber": "1234",
+      "longitude": 12.23543254,
+      "latitude": 14.268,
+      "visibility": false
+    },
+    {
+      "id": 5,
+      "name": "name5",
+      "description": "desc5",
+      "preview": "url5",
+      "phoneNumber": "12345",
+      "longitude": 12.121235,
+      "latitude": 14.90887,
+      "visibility": false
+    },
+    {
+      "id": 6,
+      "name": "name6",
+      "description": "desc6",
+      "preview": "url6",
+      "phoneNumber": "123456",
+      "longitude": 12.121213123,
+      "latitude": 14.23444,
+      "visibility": false
+    },
+    {
+      "name": "asd",
+      "description": "asd",
+      "phoneNumber": "123",
+      "visibility": true,
+      "latitude": -34.901112,
+      "longitude": -56.164532,
+      "preview": "",
+      "id": 7
+    },
+    {
+      "name": "Hola",
+      "description": "Hola",
+      "phoneNumber": "",
+      "visibility": "",
+      "latitude": -34.901112,
+      "longitude": -56.164532,
+      "preview": "",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Nombre",
+      "description": "",
+      "phoneNumber": "",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 10,
+      "name": "Nombre",
+      "description": "",
+      "phoneNumber": "",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 11,
+      "name": "Nombre",
+      "description": "Descripción",
+      "phoneNumber": "jahjdhasjkhads",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 12,
+      "name": "Nombre",
+      "description": "Descripción",
+      "phoneNumber": "jahjdhasjkhads",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 13,
+      "name": "Hernán Albano",
+      "description": "Descripción",
+      "phoneNumber": "+59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 14,
+      "name": "Hernán Albano",
+      "description": "Descripción",
+      "phoneNumber": "0059898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 15,
+      "name": "Hernán Albano",
+      "description": "Descripción",
+      "phoneNumber": "0059898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 16,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 17,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 18,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 19,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 20,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "59898394157",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 21,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "12345678",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": ""
+    },
+    {
+      "id": 22,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "12345678",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": "C:\\fakepath\\FB_IMG_1543604325460.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Hernán Albano",
+      "description": "Descripción prueba",
+      "phoneNumber": "12345678",
+      "visibility": "true",
+      "latitude": "",
+      "longitude": "",
+      "preview": "C:\\fakepath\\FB_IMG_1543604325460.jpg"
+    }
+  ],
+  "login": {
+    "id": 1,
+    "email": "admin@boosteragro.com",
+    "password": "12345678",
+    "name": "admin",
+    "lastName": "booster Agro",
+    "token": "admin-booster-agro-token"
+  }
+}
